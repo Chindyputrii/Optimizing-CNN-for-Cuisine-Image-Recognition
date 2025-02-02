@@ -4,7 +4,7 @@ This repository contains the implementation of a Convolutional Neural Network (C
 Features:
 ✅ CNN architecture with multiple convolutional layers
 ✅ Comparison of different optimizers: Adam, Adagrad, SGD
-✅ Dropout regularization with various rates (0.2, 0.3, 0.5)
+✅ Dropout regularization with various rates (No Dropout, 0.2, 0.3, 0.5)
 ✅ Achieves 87% accuracy on training data and 76% validation accuracy
 ✅ Preprocessing techniques including image augmentation
 
